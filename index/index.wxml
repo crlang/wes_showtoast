@@ -1,0 +1,17 @@
+<view>
+<button bindtap="stBtn" data-type="none">无图标</button>
+
+<button bindtap="stBtn" data-type="success">成功图标</button>
+
+<button bindtap="stBtn" data-type="error">错误图标</button>
+
+<button bindtap="stBtn" data-type="warning">警告图标</button>
+
+<button bindtap="stBtn" data-type="question">疑问图标</button>
+
+<button bindtap="stBtn" data-type="loading">加载图标</button>
+提示：可以设定提示时间，不需要手动 hideToast
+
+<button bindtap="stBtn" data-type="load">加载动作图标</button>
+提示：这个使用的是 wx.showLoading 方法，一般用在数据请求，需要手动 hideLoading
+</view>
