@@ -18,6 +18,12 @@ load : 这个使用的是 wx.showLoading 方法，一般用在数据请求，需
 showToast('这是提示','error',1200,true);
 ```
 
+## 后语
+
+### 欢迎 Star ，后续将有更多不同的组件分享。
+#### 更多了解请下载组件测试了解。
+#### 演示代码片段：[https://developers.weixin.qq.com/s/5ApcEEmt78ge](https://developers.weixin.qq.com/s/5ApcEEmt78ge)
+
 ## 预览
 ![预览](preview.png)
 
